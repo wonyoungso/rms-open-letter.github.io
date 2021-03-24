@@ -1113,6 +1113,7 @@ Signed,
 1. Wilson "Chilly" Hightower
 1. Wim Taymans (PipeWire, GStreamer)
 1. Wolthera van Hövell (Krita/KDE)
+1. Wonyoung So (MIT DUSP)
 1. Xavier Tilley
 1. Xav Paice
 1. Yadav Lamichhane
